@@ -1,7 +1,7 @@
 
-# Portfolio Bootstrap
+# QR Code Generator
 
-Project ini merupakan Project membuat portofolio sederhana menggunakan framework bootstrap. Portfolio ini dibuat dengan referensi video youtube [CodingNepal](https://www.youtube.com/c/CodingNepal).
+Project ini merupakan Project membuat QR Code Sederhana menggunakan HTML, CSS dan JavaScript. QR Code Generator ini dibuat dengan referensi video youtube [CodingNepal](https://www.youtube.com/c/CodingNepal).
 
 
 ## 🔗 Links
